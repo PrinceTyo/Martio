@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1729896572,
+	"version": 1729914941,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -94,6 +94,8 @@
 		"images/sprite60-sheet0.png",
 		"images/sprite61-sheet0.png",
 		"images/sprite62-sheet0.png",
+		"images/sprite63-sheet0.png",
+		"images/sprite65-sheet0.png",
 		"media/mobile legends new background music lobby - lantern flare _ zhuxin theme song s33 _ mlbb - infinite x (youtube).ogg",
 		"media/retro game coin sound effect.ogg",
 		"media/diamond-bling-sound-effect.ogg",
